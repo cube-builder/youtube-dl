@@ -1,5 +1,6 @@
 # to youtube
-if ur reading this ur gay and suck cocks
+if ur reading this ur gay and suck cocks why tf would you take youtube-dl down yall gay
+<br>
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms

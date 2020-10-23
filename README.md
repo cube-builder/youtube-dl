@@ -1,5 +1,7 @@
 # to youtube
 if ur reading this ur gay and suck cocks why tf would you take youtube-dl down yall gay
+# WHY YOUTUBE IS A SHIT PLATFORM
+fuck u dmca me idgaf u guys are retards
 <br>
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
